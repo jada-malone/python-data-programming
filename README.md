@@ -1,6 +1,6 @@
 # Python Programming for Data Analysis
 
-**Python · pandas · NumPy · Matplotlib · SciPy · Turtle** · Texas A&M University and Texas Tech University coursework (2024–2025)
+**Python · pandas · NumPy · Matplotlib · SciPy · Turtle** · Texas A&M University and graduate coursework (2024–2025)
 
 ## Overview
 A collection of my Python work, from first programs to data analysis: loading and summarizing real datasets with pandas, grouped aggregations, exploratory analysis of the Titanic and restaurant-tips datasets, charts with Matplotlib, and object-oriented programs with classes and inheritance.
@@ -34,7 +34,7 @@ cd data && python ../scripts/data-analysis/Assign3_Malone.py   # scripts read th
 ```
 Several scripts are interactive and ask for input in the terminal.
 
-_Housekeeping note: a few fundamentals files were saved from the Python shell with `>>>` prompts; those prompts were removed so the files run as normal scripts. The code itself is unchanged._
+_Housekeeping note: a few fundamentals files were saved from the Python shell with `>>>` prompts; those prompts were removed so the files run as normal scripts. `letter_analysis.py` was cut off at its last line, so one call to run the analysis was added (marked with a comment). Nothing else in the code was changed._
 
 ## Skills demonstrated
 Python · pandas data wrangling and group-bys · exploratory data analysis · Matplotlib visualization · functions and input validation · object-oriented programming (classes, inheritance) · file I/O
