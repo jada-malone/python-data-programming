@@ -1,0 +1,26 @@
+Date,StoreID,Region,Department,Product,SalesAmount
+2021-03-23 04:08:26,S0017,North,Books,Product 1,270.67
+2021-12-23 14:12:49,S0015,South,Homeware,Product 2,1539.45
+2021-02-01 08:32:51,S0008,East,Electronics,Product 3,1765.86
+2021-05-11 07:32:17,S0005,West,Clothing,Product 4,1854.42
+2021-11-21 17:24:41,S0010,West,Homeware,Product 5,1700.67
+2021-08-30 01:32:34,S0008,South,Books,Product 6,1806.53
+2021-01-03 14:50:22,S0015,West,Electronics,Product 7,1853.86
+2021-11-19 02:15:08,S0006,South,Homeware,Product 8,1127.14
+2021-08-20 09:48:00,S0010,West,Toys,Product 9,843.46
+2021-02-09 14:53:47,S0012,East,Homeware,Product 10,1440.04
+2021-11-30 00:43:45,S0018,North,Books,Product 11,623.7
+2021-09-26 16:27:39,S0010,East,Homeware,Product 12,1642.09
+2021-03-28 13:13:53,S0006,South,Books,Product 13,1714.02
+2021-01-17 18:33:17,S0015,West,Toys,Product 14,1800.57
+2021-03-10 22:49:37,S0012,East,Homeware,Product 15,1220.62
+2021-02-07 04:43:26,S0005,North,Homeware,Product 16,1904.55
+2021-01-13 01:13:57,S0018,South,Homeware,Product 17,1201.42
+2021-03-22 01:15:19,S0019,West,Clothing,Product 18,956.07
+2021-12-20 10:17:00,S0016,North,Homeware,Product 19,1354.47
+2021-02-09 09:40:51,S0018,South,Clothing,Product 20,1992.89
+2021-04-09 17:36:01,S0006,West,Electronics,Product 21,1842.19
+2021-09-30 12:34:37,S0014,North,Electronics,Product 22,1607.32
+2021-07-02 18:11:20,S0018,East,Toys,Product 23,256.51
+2021-03-06 03:46:34,S0013,North,Toys,Product 24,1264.29
+2021-09-21 03:02:47,S0009,West,Homeware,Product 25,1024.24
